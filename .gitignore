@@ -1,0 +1,8 @@
+*.pt
+*.pth
+*.rar
+*.zip
+*.pyc
+
+/pix2pix/datasets/new_noise_dataset2
+/pix2pix/datasets/sub_noise_dataset
