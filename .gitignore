@@ -6,3 +6,5 @@
 
 /pix2pix/datasets/new_noise_dataset2
 /pix2pix/datasets/sub_noise_dataset
+/Unet/datasets/chest-segmentation-image-dataset
+/Unet/datasets/flood_area_segmnet
