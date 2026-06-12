@@ -9,3 +9,4 @@
 /Unet/datasets/chest-segmentation-image-dataset
 /Unet/datasets/flood_area_segmnet
 /.idea
+*.pdf
