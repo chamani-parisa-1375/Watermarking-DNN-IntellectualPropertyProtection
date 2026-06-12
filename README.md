@@ -22,6 +22,9 @@ https://ieeexplore.ieee.org/document/9222304
 
 
 ---
+### watermarking_Framework
+
+<img src="images/watermarking_framework.png">
 
 ### Extractor Model
 
@@ -36,6 +39,6 @@ https://ieeexplore.ieee.org/document/9222304
 
 ### Inception Residual Block
 
-*Custom architecture visualization inspired by Wu et al. (2021). The implementation and channel configurations were modified for this project.*.*
+*Custom architecture visualization inspired by Wu et al. (2021). The implementation and channel configurations were modified for this project.*
 
 <img src='images/inception residual block.jpg'>
