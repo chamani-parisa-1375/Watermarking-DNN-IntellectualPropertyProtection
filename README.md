@@ -20,14 +20,18 @@ This project is an original PyTorch implementation developed based on the concep
 Paper:
 https://ieeexplore.ieee.org/document/9222304
 
-
+### application scenario
 <img src="images/application_scenario.png">
+
+### watermarking_framework
 <img src="images/watermarking_framework.png">
+
+### Extractor Model
 
 | EA                         | EB                        | EC                        |
 |----------------------------|---------------------------|---------------------------|
 | <img src="images/EA.jpg" > | <img src="images/EB.jpg"> | <img src="images/EC.jpg"> |
 
 
-
+#### inception residual block
 <img src='images/inception residual block.jpg'>
