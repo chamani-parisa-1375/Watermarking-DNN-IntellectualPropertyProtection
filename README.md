@@ -30,3 +30,4 @@ https://ieeexplore.ieee.org/document/9222304
 
 
 
+<img src='images/inception residual block.jpg'>
