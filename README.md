@@ -20,18 +20,34 @@ This project is an original PyTorch implementation developed based on the concep
 Paper:
 https://ieeexplore.ieee.org/document/9222304
 
-### application scenario
+### Application Scenario
+
+*Source: Adapted from Wu et al., "Watermarking Neural Networks With Watermarked Images", IEEE TCSVT, 2021.*
+
 <img src="images/application_scenario.png">
 
-### watermarking_framework
+---
+
+### Watermarking Framework
+
+*Image reproduced from the original paper by Wu et al. (2021).*
+
 <img src="images/watermarking_framework.png">
+
+---
 
 ### Extractor Model
 
+*Architecture diagrams adapted from the original paper.*
+
 | EA                         | EB                        | EC                        |
-|----------------------------|---------------------------|---------------------------|
+| -------------------------- | ------------------------- | ------------------------- |
 | <img src="images/EA.jpg" > | <img src="images/EB.jpg"> | <img src="images/EC.jpg"> |
 
+---
 
-#### inception residual block
+### Inception Residual Block
+
+*Figure reproduced/adapted from Wu et al. (2021).*
+
 <img src='images/inception residual block.jpg'>
