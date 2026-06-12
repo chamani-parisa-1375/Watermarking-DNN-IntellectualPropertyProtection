@@ -13,14 +13,20 @@ This project is an original PyTorch implementation developed based on the concep
   volume={31},
   number={7},
   pages={2591-2601},
-  doi={10.1109/TCSVT.2020.3031701}
+  doi={10.1109/TCSVT.2020.3030671}
 }
 ```
 
 Paper:
-https://ieeexplore.ieee.org/document/9237295
+https://ieeexplore.ieee.org/document/9222304
 
 
+<img src="images/application_scenario.png">
+<img src="images/watermarking_framework.png">
+
+| EA                         | EB                        | EC                        |
+|----------------------------|---------------------------|---------------------------|
+| <img src="images/EA.jpg" > | <img src="images/EB.jpg"> | <img src="images/EC.jpg"> |
 
 
 
