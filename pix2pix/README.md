@@ -29,3 +29,7 @@
 └── train_watermark.py
 
 ```
+
+### Batch Train
+### Train Flowchart
+<img src="pix2pix/train_pix2pix.png">
