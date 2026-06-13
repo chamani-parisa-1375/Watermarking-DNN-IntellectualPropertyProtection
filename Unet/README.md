@@ -26,3 +26,6 @@
 └── train_watermark_concat.py
 
 ```
+### Train Flowchart
+<img src="unet/train_unet.png">
+
