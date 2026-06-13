@@ -43,6 +43,3 @@ src="https://github.com/chamani-parisa-1375/Watermarking-DNN-IntellectualPropert
 *Custom architecture visualization inspired by Wu et al. (2021). The implementation and channel configurations were modified for this project.*
 
 <img src='https://github.com/chamani-parisa-1375/Watermarking-DNN-IntellectualPropertyProtection/blob/main/images/inception%20residual%20block.jpg'>
-
-
-### formula
