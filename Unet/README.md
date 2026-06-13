@@ -5,3 +5,7 @@
 
 ### results
 <img src="https://github.com/chamani-parisa-1375/Watermarking-DNN-IntellectualPropertyProtection/blob/main/Unet/images/unet_result.png">
+
+
+### Pruning
+<img src="https://github.com/chamani-parisa-1375/Watermarking-DNN-IntellectualPropertyProtection/blob/main/Unet/images/pruning_unet.png"
