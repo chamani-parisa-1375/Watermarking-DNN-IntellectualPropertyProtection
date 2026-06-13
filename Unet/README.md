@@ -1,31 +1,5 @@
 # Unet
 
-
-
-``` s
-├── README.md
-├── datasets
-│   ├── dataset.txt
-│   └── watermark_img
-│       ├── Spring-flowers-clipart-free-clipart-images.png
-│       ├── lena.jpg
-│       ├── photo13018031717.jpg
-│       └── yazd_university.png
-├── fine_tune.py
-├── fine_tune_concat.py
-├── src
-│   ├── DWM
-│   │   ├── data_setup.py
-│   │   ├── deep_watermark.py
-│   │   ├── engine.py
-│   │   └── engine_concat.py
-│   ├── engine_unet.py
-│   └── model_unet.py
-├── train_unet.py
-├── train_watermark.py
-└── train_watermark_concat.py
-
-```
 ### Train Flowchart
 <img src="unet/train_unet.png">
 

@@ -42,3 +42,6 @@ https://ieeexplore.ieee.org/document/9222304
 *Custom architecture visualization inspired by Wu et al. (2021). The implementation and channel configurations were modified for this project.*
 
 <img src='images/inception residual block.jpg'>
+
+
+### formula
