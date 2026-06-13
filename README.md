@@ -24,7 +24,8 @@ https://ieeexplore.ieee.org/document/9222304
 ---
 ### watermarking_Framework
 
-<img src="https://github.com/chamani-parisa-1375/Watermarking-DNN-IntellectualPropertyProtection/tree/main/images/watermarking_framework.png">
+<img 
+src="https://github.com/chamani-parisa-1375/Watermarking-DNN-IntellectualPropertyProtection/blob/main/images/watermarking_framework.png">
 
 ### Extractor Model
 
@@ -33,7 +34,7 @@ https://ieeexplore.ieee.org/document/9222304
 
 | EA                         | EB                        | EC                        |
 | -------------------------- | ------------------------- | ------------------------- |
-| <img src="https://github.com/chamani-parisa-1375/Watermarking-DNN-IntellectualPropertyProtection/tree/main/images/EA.jpg" > | <img src="https://github.com/chamani-parisa-1375/Watermarking-DNN-IntellectualPropertyProtection/tree/main/images/EB.jpg"> | <img src="https://github.com/chamani-parisa-1375/Watermarking-DNN-IntellectualPropertyProtection/tree/main/images/EC.jpg"> |
+| <img src="https://github.com/chamani-parisa-1375/Watermarking-DNN-IntellectualPropertyProtection/blob/main/images/EA.jpg" > | <img src="https://github.com/chamani-parisa-1375/Watermarking-DNN-IntellectualPropertyProtection/blob/main/images/EB.jpg"> | <img src="https://github.com/chamani-parisa-1375/Watermarking-DNN-IntellectualPropertyProtection/blob/main/images/EC.jpg"> |
 
 ---
 
@@ -41,7 +42,7 @@ https://ieeexplore.ieee.org/document/9222304
 
 *Custom architecture visualization inspired by Wu et al. (2021). The implementation and channel configurations were modified for this project.*
 
-<img src='https://github.com/chamani-parisa-1375/Watermarking-DNN-IntellectualPropertyProtection/tree/main/images/inception residual block.jpg'>
+<img src='https://github.com/chamani-parisa-1375/Watermarking-DNN-IntellectualPropertyProtection/blob/main/images/inception%20residual%20block.jpg'>
 
 
 ### formula
