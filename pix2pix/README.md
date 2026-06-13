@@ -7,4 +7,4 @@
 
 
 ### Pruning
-<img src="https://github.com/chamani-parisa-1375/Watermarking-DNN-IntellectualPropertyProtection/blob/main/pix2pix/images/pruning_pix2pix.png"
+<img src="https://github.com/chamani-parisa-1375/Watermarking-DNN-IntellectualPropertyProtection/blob/main/pix2pix/images/pruning_pix2pix.png">
